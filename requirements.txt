@@ -1,5 +1,5 @@
 streamlit
-torch==2.1.0  # Use 2.1.0 to avoid PyTorch issues
+torch==2.3.1  
 torchaudio
 transformers
 scipy
